@@ -6,3 +6,5 @@ Some of these papers I was involved with, and others were linked due to the talk
 The following are only available online:
 
 [The rapid replacement of the SARS-CoV-2 Delta variant by Omicron (B.1.1.529) in England](https://www.science.org/doi/10.1126/scitranslmed.abo5395)
+[Understanding an evolving pandemic: An analysis of the clinical time delay distributions of COVID-19 in the United Kingdom](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257978)
+[Transmission dynamics of monkeypox in the United Kingdom: contact tracing study](https://www.bmj.com/content/379/bmj-2022-073153)
