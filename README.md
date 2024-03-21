@@ -3,7 +3,7 @@ This repository conatains papers from my time at the Infectious Diseases Modelli
 
 Some of these papers I was involved with, and others were linked due to the talk given at the PyData London meetup on 7th March 2023.
 
-The following are only available online:
+The following are available online:
 
 [The rapid replacement of the SARS-CoV-2 Delta variant by Omicron (B.1.1.529) in England](https://www.science.org/doi/10.1126/scitranslmed.abo5395) (Growth rate plots)
 
