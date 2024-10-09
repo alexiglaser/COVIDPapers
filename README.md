@@ -1,7 +1,11 @@
 # COVIDPapers
 This repository conatains papers from my time at the Infectious Diseases Modelling team of the UK Health Security Agency (UKHSA), formerly Public Health England (PHE) during the COVID-19 pandemic.
 
-Some of these papers I was involved with, and others were linked due to the talk given at the PyData London meetup on 7th March 2023 / LondonR meetup on 25th April 2024 EARL conference 5th September 2024 / AIcamp 9th October 2024.
+Some of these papers I was involved with, and others were linked due to the talk given at:
+* PyData London meetup, 7th March 2023
+* LondonR meetup, 25th April 2024
+* EARL conference 5th September 2024
+* AIcamp 9th October 2024.
 
 The following are available online:
 
