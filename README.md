@@ -5,6 +5,8 @@ Some of these papers I was involved with, and others were linked due to the talk
 
 The following are available online:
 
+[The real-time infection hospitalisation and fatality risk across the COVID-19 pandemic in England](https://www.nature.com/articles/s41467-024-47199-3) (referred to ax IXR-rates above)
+
 [The rapid replacement of the SARS-CoV-2 Delta variant by Omicron (B.1.1.529) in England](https://www.science.org/doi/10.1126/scitranslmed.abo5395) (Growth rate plots)
 
 [Understanding an evolving pandemic: An analysis of the clinical time delay distributions of COVID-19 in the United Kingdom](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257978)
